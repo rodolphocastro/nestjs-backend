@@ -73,3 +73,10 @@ Crie endpoints para as seguintes ações:
 - Utilize Nestjs com TypeScript
 - Caso tenha alguma dúvida, tome uma decisão e explique no PR
 - Testes são sempre bem-vindos :smiley:
+
+### Pendências (TODO)
+
+- [ ] Adicionar `Dockerfile` para gerar uma imagem docker da API rodando
+- [ ] Adicionar `Pipes` para realizar validações da input e da output
+- [ ] Adicionar `Log` de informações e erros
+- [ ] Melhorar o mapeamento entre o `DTO` e `Model`
